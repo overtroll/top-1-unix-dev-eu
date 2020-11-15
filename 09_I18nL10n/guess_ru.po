@@ -1,0 +1,29 @@
+# Russian translations for  09_I18nL10n package.
+# Copyright (C) 2020 THE  09_I18nL10n'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the  09_I18nL10n package.
+# <overtrollx>, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version:  09_I18nL10n\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-15 20:29+0500\n"
+"PO-Revision-Date: 2020-11-15 14:48+0500\n"
+"Last-Translator: <overtrollx@gmail.com>\n"
+"Language-Team: Russian\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#: main.c:22
+#, c-format
+msgid "> %d:"
+msgstr "Более %d:"
+
+#: main.c:33
+#, c-format
+msgid "Answer %d\n"
+msgstr "Ответ %d\n"
